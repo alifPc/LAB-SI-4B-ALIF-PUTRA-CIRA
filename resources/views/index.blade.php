@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>Alifa's Portfolio</title>
+    <title>Alif's Portfolio</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="author" content="Brex-Theme" />
-    <!-- descriptionn -->
+    <!-- description -->
     <meta
       name="description"
       content="Brex is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose agency and portfolio HTML5 template."
