@@ -65,7 +65,7 @@
               <a class="nav-link" href="#services">SERVICES</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#contact">CONTACT</a>
+              <a class="nav-link" href="/contact">CONTACT</a>
             </li>
           </ul>
         </div>
@@ -224,79 +224,6 @@
       </div>
     </section>
     <!-- ===== End Services ===== -->
-
-    <!-- ===== Start Contact ===== -->
-    <section class="contact" id="contact">
-      <h2 class="text-center">Get In Touch!</h2>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-            <form>
-              <div class="row">
-                <div class="col-sm-6">
-                  <input
-                    type="text"
-                    required
-                    class="form-control"
-                    placeholder="Name"
-                  />
-                </div>
-                <div class="col-sm-6">
-                  <input
-                    type="email"
-                    required
-                    class="form-control"
-                    placeholder="Email"
-                  />
-                </div>
-                <div class="col-sm-12">
-                  <input
-                    type="text"
-                    required
-                    class="form-control"
-                    placeholder="Subject"
-                  />
-                </div>
-              </div>
-              <div class="form-group">
-                <textarea
-                  required
-                  class="form-control"
-                  rows="5"
-                  id="comment"
-                  placeholder="Message"
-                ></textarea>
-              </div>
-              <button class="btn btn-block" type="submit">Send Now!</button>
-            </form>
-          </div>
-          <div class="col-md-4">
-            <div class="info">
-              <span class="fa fa-map-marker"></span>
-              <p>
-                Universitas Sriwijaya
-                <br />
-                Indralaya, Indonesia
-              </p>
-
-              <span class="fa fa-mobile"></span>
-              <p>
-                +62 821 8394 3782
-                <br />
-                +1 261 2671 389
-              </p>
-
-              <span class="fa fa-at"></span>
-              <p>
-                alif@email.com <br />
-                apusi.01@gmail.com
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- ===== End Contact ===== -->
 
     <!-- ===== Start Footer ===== -->
     <footer class="footer text-center">
