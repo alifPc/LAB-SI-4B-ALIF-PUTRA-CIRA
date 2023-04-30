@@ -17,18 +17,7 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/welcome', function () {
-    return view('welcome');
+Route::get('/contact', function () {
+    return view('contact');
 });
 
-Route::get('/profile', function () {
-    return view('profile');
-});
-
-Route::get('/portofolio', function () {
-    return view('portofolio');
-});
-
-Route::get('/kontak', function () {
-    return view('kontak');
-});
