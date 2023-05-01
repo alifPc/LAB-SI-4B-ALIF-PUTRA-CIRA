@@ -56,13 +56,13 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="index.html">HOME</a>
+              <a class="nav-link" href="/index">HOME</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.html">ABOUT</a>
+              <a class="nav-link" href="/index">ABOUT</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.html">SERVICES</a>
+              <a class="nav-link" href="/index">SERVICES</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#contact">CONTACT</a>
