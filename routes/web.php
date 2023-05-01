@@ -21,3 +21,6 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/index', function () {
+    return view('index');
+});
